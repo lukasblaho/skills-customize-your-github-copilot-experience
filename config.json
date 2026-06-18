@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-route-protection",
+      "title": "FastAPI Route Protection with API Keys",
+      "description": "Secure FastAPI endpoints with API key authentication and role-based access rules.",
+      "path": "assignments/fastapi-route-protection",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
